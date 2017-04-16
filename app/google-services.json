@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "214344548044",
+    "firebase_url": "https://watcher-3a17d.firebaseio.com",
+    "project_id": "watcher-3a17d",
+    "storage_bucket": "watcher-3a17d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214344548044:android:371ea4504b8173e3",
+        "android_client_info": {
+          "package_name": "narwhale.watcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214344548044-5ik150gpuu7ahisqkk0vahkqu43q11gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX_LbZgiyiiLGIbYrWejFPlpSjtXqD_XQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
